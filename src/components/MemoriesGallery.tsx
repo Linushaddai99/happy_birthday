@@ -36,7 +36,7 @@ const MemoriesGallery: React.FC = () => {
         <div className="flex items-center justify-center mb-8 gap-2">
           <Images className="text-birthday-blue w-8 h-8" />
           <h2 className="text-3xl md:text-4xl font-pacifico text-center text-birthday-purple">
-            The legend himself
+            the few shades of you
           </h2>
           <Images className="text-birthday-blue w-8 h-8" />
         </div>

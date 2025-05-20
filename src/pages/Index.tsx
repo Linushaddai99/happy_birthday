@@ -25,7 +25,7 @@ const Index = () => {
     const timer = setTimeout(() => {
       setShowConfetti(true);
       toast.success("Happy Birthday! 🎂", {
-        description: "Wishing you an amazing day filled with joy!",
+        description: "Wishing you an extra 1 million naira! and true love",
       });
     }, 1000);
     
